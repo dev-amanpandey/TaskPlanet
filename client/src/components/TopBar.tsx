@@ -1,4 +1,4 @@
-import { AppBar, Avatar, Box, IconButton, InputBase, Stack, Toolbar, Typography } from "@mui/material";
+import { AppBar, Avatar, Box, IconButton, InputBase, Stack, Toolbar} from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 import DarkModeOutlinedIcon from "@mui/icons-material/DarkModeOutlined";
 import PersonOutlineIcon from "@mui/icons-material/PersonOutline";
